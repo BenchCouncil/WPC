@@ -1,0 +1,20 @@
+{
+  "detail": "https://ark.intel.com/content/www/us/en/ark/products/48768/intel-xeon-processor-e5645-12m-cache-2-40-ghz-5-86-gt-s-intel-qpi.html",
+  "events": {
+    "r010B": "MEM_INST_RETIRED.LOADS",
+    "r020B": "MEM_INST_RETIRED.STORES",
+    "r003C": "CPU_CLK_UNHALTED.THREAD_P",
+    "r00C0": "INST_RETIRED.ANY_P",
+    "r01C0": "INST_RETIRED.ANY_P",
+    "r02C0": "INST_RETIRED.X87",
+    "r010E": "UOPS_ISSUED.ANY",
+    "r01C2": "UOPS_RETIRED.ANY",
+    "r04C4": "BR_INST_RETIRED.ALL_BRANCHES",
+    "r01C5": "BR_MISP_RETIRED.ALL_BRANCHES",
+    "r01C7": "SSEX_UOPS_RETIRED.PACKED_SINGLE",
+    "r02C7": "SSEX_UOPS_RETIRED.SCALAR_SINGLE",
+    "r04C7": "SSEX_UOPS_RETIRED.PACKED_DOUBLE",
+    "r08C7": "SSEX_UOPS_RETIRED.SCALAR_DOUBLE",
+    "r10C7": "SSEX_UOPS_RETIRED.VECTOR_INTEGER"
+  }
+}
